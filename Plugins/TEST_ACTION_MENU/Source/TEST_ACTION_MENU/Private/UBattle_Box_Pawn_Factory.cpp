@@ -2,7 +2,7 @@
 
 
 #include "UBattle_Box_Pawn_Factory.h"
-#include "../Battle_Box_Pawn.h"
+#include "Battle_Box_Pawn.h"
 #define LOCTEXT_NAMESPACE "Battle_Box_Pawn"
 
 

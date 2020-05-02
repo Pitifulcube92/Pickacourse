@@ -8,11 +8,11 @@
 #include "Widgets/Input/SComboBox.h"
 #include "Widgets/Input/SSpinBox.h"
 #include "Widgets/Input/SButton.h"
-#include "SDockTab.h"
-#include "SDockableTab.h"
+#include "Widgets/Docking/SDockTab.h"
+#include "Widgets/Docking/SDockableTab.h"
 #include "SlateBasics.h"
 #include "Editor/EditorWidgets/Public/SDropTarget.h"
-#include "../ActionAlgorithmComponent.h"
+
 #include "DragAndDrop/AssetDragDropOp.h"
 
 
@@ -22,12 +22,11 @@
 #include "UAbiltiyActionFactory.h"
 #include "UCommandActionFactory.h"
 #include "UItemActionFactory.h"
-#include "../ActionClasses/UAbilityAction.h"
-#include "../ActionClasses/UCommandAction.h"
-#include "../ActionClasses/UItemAction.h"
-#include "../Battle_Box_Enums.h"
-#include "..\Public\ActionWindow.h"
-#include "../ActionAlgorithmComponent.h"
+#include "ActionClasses/UAbilityAction.h"
+#include "ActionClasses/UCommandAction.h"
+#include "ActionClasses/UItemAction.h"
+#include "Battle_Box_Enums.h"
+#include "ActionAlgorithmComponent.h"
 #include "CoreUObject.h"
 
 static const FName ActionMenuTabName("Action Creation Menu");

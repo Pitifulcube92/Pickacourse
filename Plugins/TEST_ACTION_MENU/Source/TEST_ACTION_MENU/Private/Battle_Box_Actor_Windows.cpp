@@ -5,8 +5,8 @@
 #include "Widgets/Input/SButton.h"
 #include "Widgets/Text/STextBlock.h"
 #include "Widgets/Input/SEditableTextBox.h"
-#include "SDockTab.h"
-#include "SDockableTab.h"
+#include "Widgets/Docking/SDockTab.h"
+#include "Widgets/Docking/SDockableTab.h"
 
 
 //Asset Registry 
@@ -14,11 +14,12 @@
 //creation classes
 #include "ActorFactories/ActorFactory.h"
 #include "UBattle_Box_Character_Factory.h"
-#include "../Battle_Box_Character.h"
+
+#include "Battle_Box_Character.h"
 #include "UBattle_Box_Actor_Factory.h"
-#include "../Battle_Box_Actor.h"
+#include "Battle_Box_Actor.h"
 #include "UBattle_Box_Pawn_Factory.h"
-#include "../Battle_Box_Pawn.h"
+#include "Battle_Box_Pawn.h"
 #include "..\Public\Battle_Box_Actor_Windows.h"
 
 static const FName ActorTabName("Actor Creation Menu");

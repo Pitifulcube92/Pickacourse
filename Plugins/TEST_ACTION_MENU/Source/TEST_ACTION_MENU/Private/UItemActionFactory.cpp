@@ -1,5 +1,5 @@
 #include "UItemActionFactory.h"
-#include "../ActionClasses/UItemAction.h"
+#include "ActionClasses/UItemAction.h"
 #define LOCTEXT_NAMESPACE "UItemAction"
 
 

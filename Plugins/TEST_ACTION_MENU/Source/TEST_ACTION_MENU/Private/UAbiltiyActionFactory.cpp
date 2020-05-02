@@ -1,5 +1,5 @@
 #include "UAbiltiyActionFactory.h"
-#include "../ActionClasses/UAbilityAction.h"
+#include "ActionClasses/UAbilityAction.h"
 #define LOCTEXT_NAMESPACE "UAbilityAction"
 /////////////////////////////////////////////////////
 // UMyObjectFactory

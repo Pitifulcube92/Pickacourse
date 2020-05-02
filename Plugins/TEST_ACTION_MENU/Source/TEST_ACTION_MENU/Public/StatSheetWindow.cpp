@@ -11,11 +11,11 @@
 #include "Widgets/Input/SSpinbox.h"
 #include "Widgets/Layout/SScrollBox.h"
 #include "Widgets/SOverlay.h"
-#include "SDockTab.h"
-#include "SDockableTab.h"
+#include "Widgets/Docking/SDockTab.h"
+#include "Widgets/Docking/SDockableTab.h"
 //#include "Editor/EditorWidgets/Public/SDropTarget.h"
 #include "AssetRegistryModule.h"
-#include "../UStatSheetObject.h"
+#include "UStatSheetObject.h"
 #include "UStatSheetFactory.h"
 
 static const FName StatSheetTabName("StatSheet Creation Menu");

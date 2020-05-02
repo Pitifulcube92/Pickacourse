@@ -2,7 +2,7 @@
 
 
 #include "UStatSheetFactory.h"
-#include "../UStatSheetObject.h"
+#include "UStatSheetObject.h"
 #define LOCTEXT_NAMESPACE "UStatSheetObject"
 /////////////////////////////////////////////////////
 // UMyObjectFactory

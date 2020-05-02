@@ -1,7 +1,7 @@
 
 
 #include "UCommandActionFactory.h"
-#include "../ActionClasses/UCommandAction.h"
+#include "ActionClasses/UCommandAction.h"
 #define LOCTEXT_NAMESPACE "UCommandAction"
 /////////////////////////////////////////////////////
 // UMyObjectFactory

@@ -2,7 +2,7 @@
 
 
 #include "UBattle_Box_Character_Factory.h"
-#include "../Battle_Box_Character.h"
+#include "Battle_Box_Character.h"
 #define LOCTEXT_NAMESPACE "Battle_Box_Character"
 
 

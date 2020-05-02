@@ -9,9 +9,8 @@
 #include "Widgets/Input/SSpinBox.h"
 #include "Widgets/Layout/SScrollBox.h"
 #include "AssetThumbnail.h"
-#include "SDockTab.h"
-#include "../Public/ActionAlgorithmComponent.h"
-#include "../Public/UStatSheetObject.h"
+#include "ActionAlgorithmComponent.h"
+#include "UStatSheetObject.h"
 
 
 //File Management 
