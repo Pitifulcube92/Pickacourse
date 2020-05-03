@@ -1,4 +1,0 @@
-INFO: Info is working. in Battle_Box.cpp. Line: 16
-ERROR: Error is working. in Battle_Box.cpp. Line: 19
-WARNING: Warning is Working. in Battle_Box.cpp. Line: 22
-FATALERROR: FatalError is working. in Battle_Box.cpp. Line: 25
